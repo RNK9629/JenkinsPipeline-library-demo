@@ -1,4 +1,4 @@
-@Library('jenkins-shared-lib@master') _
+@Library('shared-lib@master') _
 node
 {
   checkout("jenkins shared lib demo")
