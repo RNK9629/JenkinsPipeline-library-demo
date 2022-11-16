@@ -1,5 +1,5 @@
-@library('jenkins-libary-demo@master') _
+@library('jenkins-libary-lib@master') _
 node
 {
-  checkout("by RNK")
+  checkout("....by RNK")
 }
