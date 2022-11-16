@@ -1,9 +1,5 @@
-master
-@Library('jenkins-shared-lib@master') _
-=======
-@Library('jenkins-shared-lib@master') _
- main
+@Library('jenkins-shared-lib@master')
 node
 {
-  checkout("jenkins shared lib demo")
+  myfirstOP("jenkins shared lib demo")
 }
