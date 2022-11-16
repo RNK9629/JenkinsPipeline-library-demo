@@ -1,4 +1,4 @@
-@Library('jenkins-shared-lib@master')
+@Library('shared-lib@master')
 node
 {
   myfirstOP("jenkins shared lib demo")
