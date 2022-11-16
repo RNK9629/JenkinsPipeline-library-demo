@@ -1,5 +1,5 @@
 @Library('shared-lib@master') _
 node
 {
-  myfirstOP("jenkins shared lib demo")
+  myfirstOP("jenkins shared library demo piece")
 }
